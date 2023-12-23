@@ -1,4 +1,4 @@
-# 2.uygulama
+# Basit açık arttırma uygulaması
 C de basit açık arttırma uygulama 
 Merhaba ben Huriye bu depoda basit açık arttırma uygulaması paylaştım.
 Bu kod Dev C++ da C dili ile yazılılmıştır.
